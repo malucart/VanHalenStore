@@ -1,2 +1,5 @@
 # VanHalenStore
-Website focusing on using DOM manipulation and vanilla JS, with no frameworks. 
+Website built with vanilla JavaScript for DOM manipulation, without using frameworks.
+
+## Interactive Prototype
+<img src="https://github.com/malucart/VanHalenStore/blob/main/record/vanhalenstore.gif">
